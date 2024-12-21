@@ -12,10 +12,10 @@ ORQA questions are hand-crafted to require complex, multi-step reasoning to iden
 ## Download Code and Dataset
 
 ```bash
-!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/coswm/code.zip
+!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip
 !unzip -qo code.zip
 
-!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/coswm/data.zip
+!wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/data.zip
 !unzip -qo data.zip
 ```
 
