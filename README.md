@@ -71,7 +71,7 @@ It includes two files:
 5. **REASONING**: For validation set only, which contains expert-created reasoning steps that explain how the correct answer is derived.
 
 <p align="center">
-  <img src="img/data_breakdown.png" width="1000" />
+  <img src="img/data_breakdown.PNG" width="1000" />
 </p>
 
 ### Example Instance (Validation Set)
