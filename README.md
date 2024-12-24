@@ -9,6 +9,8 @@ ORQA questions are hand-crafted to require complex, multi-step reasoning to iden
   <img src="img/ORQA-Fig2.png" width="1000" />
 </p>
 
+### For more detail about the code dataset and our results refer to [Huawei Cloud - ORQA](https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=6b98c56e-913b-47ef-8d9f-3266c8aec06a)
+
 ## Download Code and Dataset
 
 ```bash
