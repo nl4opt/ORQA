@@ -1,7 +1,7 @@
 # Evaluating LLM Reasoning in the Operations Research Domain with ORQA
 
 
-<h1 align="center"><strong>Accepted paper at AAAI 2025: <a href="https://arxiv.org/abs/2412.17874">Paper Link</a></strong></h1>
+<h2 align="center"><strong>Accepted paper at AAAI 2025: <a href="https://arxiv.org/abs/2412.17874">arXiv Link</a></strong></h2>
   
 Operations Research Question Answering (ORQA) is a new benchmark designed to assess the reasoning capabilities of Large Language Models (LLMs) in a specialized technical domain, namely Operations Research (OR). The benchmark evaluates whether LLMs can emulate the knowledge and reasoning skills of OR experts when presented with complex optimization problems. Crafted by OR experts, the dataset consists of real-world optimization problems that require multi-step mathematical reasoning to arrive at solutions. Our evaluations of several open-source LLMs, such as LLaMA 3.1, DeepSeek, and Mixtral, reveal their modest performance, highlighting a gap in their ability to generalize to specialized technical domains.
 
