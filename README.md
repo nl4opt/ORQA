@@ -59,13 +59,13 @@ instance = {
 ```
 ---
 
-## Download code with dataset
+## Download code with dataset ([link](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip))
 
 ```bash
 !wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip
 !unzip -qo code.zip
 ```
-## Download dataset alone
+## Download dataset alone ([link](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/data.zip))
 ```bash
 !wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/data.zip
 !unzip -qo data.zip
