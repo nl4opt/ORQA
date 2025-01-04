@@ -1,5 +1,6 @@
-# Evaluating LLM Reasoning in the Operations Research Domain with ORQA
-
+<h1 align="center"><strong>
+Evaluating LLM Reasoning in the Operations Research Domain with ORQA
+</strong></h1>
 
 <h2 align="center"><strong>Accepted paper at AAAI 2025: <a href="https://arxiv.org/abs/2412.17874">arXiv Link</a></strong></h2>
   
