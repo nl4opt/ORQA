@@ -1,4 +1,9 @@
 ![GitHub Repo Views](https://komarev.com/ghpvc/?username=nl4opt&color=blue)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nl4opt/orqa)
+![GitHub issues](https://img.shields.io/github/issues/nl4opt/orqa)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/nl4opt/orqa)
+![GitHub](https://img.shields.io/github/license/nl4opt/orqa)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Questions-blue?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/orqa)
 
 <h1 align="center"><strong>
 Evaluating LLM Reasoning in the Operations Research Domain with ORQA
