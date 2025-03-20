@@ -1,3 +1,5 @@
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=nl4opt&color=blue)
+
 <h1 align="center"><strong>
 Evaluating LLM Reasoning in the Operations Research Domain with ORQA
 </strong></h1>
