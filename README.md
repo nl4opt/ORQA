@@ -24,9 +24,7 @@ ORQA questions are hand-crafted to require complex, multi-step reasoning to iden
 
 ## Dataset Overview
 
-The dataset can be found in the directory: `src/task/dataset`.
-
-It includes two files:
+The `/dataset` includes two files:
 
 - **Test Set (1468 instances)**: `ORQA_test.jsonl`
 - **Validation Set (45 instances)**: `ORQA_validation.jsonl`
@@ -66,10 +64,9 @@ instance = {
 ```
 ---
 
-## Download code with dataset ([link](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip))
+## Download code with dataset directly ([link](https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip))
 
 ```bash
 !wget https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/orqa/code.zip
 !unzip -qo code.zip
 ```
-Dataset can be found in /src/task/dataset/
